@@ -2,4 +2,4 @@
 
 ## Oficina Inteligente
 
-Programa en CLIPS encargado de la gestión de una oficina.
+Sistema Basado en el Conocimiento que gestiona las diferentes actividades de una oficina
